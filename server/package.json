@@ -31,7 +31,7 @@
     "schm": "^0.4.1",
     "sequelize": "^6.33.0",
     "slugify": "^1.6.6",
-    "sqlite3": "^5.1.6",
+    "sqlite3": "^6.0.0",
     "vectra": "^0.4.4"
   },
   "devDependencies": {
